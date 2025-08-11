@@ -103,6 +103,8 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 </div>
 </div>
 
+---
+
 - `NN 2025`[EEGMamba: An EEG Foundation Model with Mamba](https://www.sciencedirect.com/science/article/pii/S0893608025006963), Jiquan Wang, Sha Zhao, Zhiling Luo, **Yangxuan Zhou**, Shijian Li, Gang Pan
 - `ACMMM 2025`[Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
   Portable EEG-fNIRS Fusion](https://arxiv.org/abs/2508.04723), Sha Zhao, Song Yi, **Yangxuan Zhou**, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
