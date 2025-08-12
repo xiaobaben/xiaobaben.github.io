@@ -88,7 +88,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 
 [CBraMod: A Criss-Cross Brain Foundation Model for EEG Decoding](https://openreview.net/forum?id=NPNUHgHF2w)
 
-**Jiquan Wang**, Sha Zhao, Zhiling Luo, Yangxuan Zhou, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+Jiquan Wang, Sha Zhao, Zhiling Luo, **Yangxuan Zhou**, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
 [![Paper](https://img.shields.io/badge/arXiv-2412.07236-red)](https://arxiv.org/abs/2412.07236)
 [![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)](https://openreview.net/forum?id=NPNUHgHF2w)
