@@ -54,7 +54,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/SPICED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding]
+[SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding](https://neurips.cc/virtual/2025/poster/115851)
 
 **Yangxuan Zhou**, Sha Zhao, Jiquan Wang, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
