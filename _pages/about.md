@@ -33,6 +33,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 我的研究兴趣包括脑电信号解码、脑机接口、深度学习和人工智能。目前我正专注于研究基于脑启发的持续学习以及在现实场景的持续脑信号解码算法。
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding_" is accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉 Our paper "_EEGMamba: An EEG Foundation Model with Mamba_" (**EEG Foundation
   Model 🤖**) is accepted by **Neural Networks**!
 - *2025.07*: &nbsp;🎉 Our paper "_Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
@@ -50,6 +51,22 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
   published in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**!
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/SPICED.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding]
+
+**Yangxuan Zhou**, Sha Zhao, Jiquan Wang, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)]
+[![GitHub Repo stars](https://img.shields.io/github/stars/xiaobaben/SPICED)](https://github.com/xiaobaben/SPICED)
+
+- This paper proposes a novel synaptic homeostasis inspired framework for continual EEG decoding in real-world scenarios.
+- **SPICED** abstracts and simplifies complex neural mechanisms into a computationally tractable continual learning method, achieving superior performance across up to **3 different downstream BCI datasets**.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/BrainUICL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
