@@ -61,8 +61,8 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 [![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)]
 [![GitHub Repo stars](https://img.shields.io/github/stars/xiaobaben/SPICED)](https://github.com/xiaobaben/SPICED)
 
-- This paper proposes a novel synaptic homeostasis inspired framework for continual EEG decoding in real-world scenarios.
-- **SPICED** abstracts and simplifies complex neural mechanisms into a computationally tractable continual learning method, achieving superior performance across up to **3 different downstream BCI datasets**.
+- This paper proposes a novel synaptic homeostasis inspired continual learning framework for EEG decoding in real-world scenarios.
+- **The core contribution of SPICED** is the mechanistic translation of neurobiology into a computational continual learning framework.
 
 </div>
 </div>
