@@ -58,7 +58,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 
 **Yangxuan Zhou**, Sha Zhao, Jiquan Wang, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
-[![Paper](https://img.shields.io/badge/Paper-ICLR-008B8B)](https://github.com/xiaobaben/SPICED)
+[![Paper](https://img.shields.io/badge/Paper-NeurIPS-008B8B)](https://neurips.cc/virtual/2025/poster/115851)
 [![GitHub Repo stars](https://img.shields.io/github/stars/xiaobaben/SPICED)](https://github.com/xiaobaben/SPICED)
 
 - This paper proposes a novel synaptic homeostasis inspired continual learning framework for EEG decoding in real-world scenarios.
