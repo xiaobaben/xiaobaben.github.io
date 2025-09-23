@@ -58,6 +58,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 
 **Yangxuan Zhou**, Sha Zhao, Jiquan Wang, Haiteng Jiang, Shijian Li, Tao Li, Gang Pan
 
+[![Paper](https://img.shields.io/badge/arXiv-2412.07236-red)](https://arxiv.org/pdf/2509.17439)
 [![Paper](https://img.shields.io/badge/Paper-NeurIPS-008B8B)](https://neurips.cc/virtual/2025/poster/115851)
 [![GitHub Repo stars](https://img.shields.io/github/stars/xiaobaben/SPICED)](https://github.com/xiaobaben/SPICED)
 
