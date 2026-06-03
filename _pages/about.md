@@ -59,7 +59,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/EvoBrain.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Taskswards Universal BCI](http://arxiv.org/abs/2606.01767)
+[EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Tasks](http://arxiv.org/abs/2606.01767)
 
 **Yangxuan Zhou**, Sha Zhao, Jiquan Wang, Shijian Li, Gang Pan
 
