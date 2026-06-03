@@ -55,6 +55,20 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
   published in **IEEE Transactions on Neural Systems and Rehabilitation Engineering (TNSRE)**!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/papers/EvoBrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EvoBrain: Continual Learning of EEG Foundation Models Across Heterogeneous BCI Taskswards Universal BCI](http://arxiv.org/abs/2606.01767)
+
+**Yangxuan Zhou**, Sha Zhao, Jiquan Wang, Shijian Li, Gang Pan
+
+[![Paper](https://img.shields.io/badge/arXiv-2601.06134-red)](http://arxiv.org/abs/2606.01767)
+
+- We propose **EvoBrain**, the first cross-task continual learning framework for pretrained EEG Foundation Models, which enables a single unified model to dynamically adapt across  heterogeneous EEG tasks and advances toward the **one-for-all objective for universal brain decoding.**
+- EvoBrain introduces **Neuro-Spectral Task Normalization (NSN)** and **Response-Affinity Distillation (RAD)** to balance adaptation plasticity and memory stability, achieving consistent improvements across six EEG tasks and four mainstream foundation-model architectures, demonstrating strong architecture-agnostic generalization.
+
+  
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/SPICED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
