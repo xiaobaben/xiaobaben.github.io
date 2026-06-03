@@ -127,6 +127,7 @@ Jiquan Wang, Sha Zhao, Zhiling Luo, **Yangxuan Zhou**, Haiteng Jiang, Shijian Li
 
 ---
 - `TAFFC 2026` [Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback](https://ieeexplore.ieee.org/document/11477097), Sha Zhao, Song Yi, **Yangxuan Zhou**, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
+- `Neurocomputing 2026` [EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI Applications](https://www.sciencedirect.com/science/article/abs/pii/S0925231226000330), Jiquan Wang, Sha Zhao, Zhiling Luo, **Yangxuan Zhou**, Shijian Li, Gang Pan
 - `NN 2025`[EEGMamba: An EEG Foundation Model with Mamba](https://www.sciencedirect.com/science/article/pii/S0893608025006963), Jiquan Wang, Sha Zhao, Zhiling Luo, **Yangxuan Zhou**, Shijian Li, Gang Pan
 - `ACMMM 2025`[Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
   Portable EEG-fNIRS Fusion](https://arxiv.org/abs/2508.04723), Sha Zhao, Song Yi, **Yangxuan Zhou**, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
