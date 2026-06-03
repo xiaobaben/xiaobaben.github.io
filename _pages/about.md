@@ -67,7 +67,9 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 
 - We propose **EvoBrain**, the first cross-task continual learning framework for pretrained EEG Foundation Models, which enables a single unified model to dynamically adapt across  heterogeneous EEG tasks and advances toward the **one-for-all objective for universal brain decoding.**
 - EvoBrain introduces **Neuro-Spectral Task Normalization (NSN)** and **Response-Affinity Distillation (RAD)** to balance adaptation plasticity and memory stability, achieving consistent improvements across six EEG tasks and four mainstream foundation-model architectures, demonstrating strong architecture-agnostic generalization.
-
+  
+</div>
+</div>
   
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/SPICED.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
