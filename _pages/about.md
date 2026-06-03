@@ -63,7 +63,7 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 
 **Yangxuan Zhou**, Sha Zhao, Jiquan Wang, Shijian Li, Gang Pan
 
-[![Paper](https://img.shields.io/badge/arXiv-2601.06134-red)](http://arxiv.org/abs/2606.01767)
+[![Paper](https://img.shields.io/badge/arXiv-2606.01767-red)](http://arxiv.org/abs/2606.01767)
 
 - We propose **EvoBrain**, the first cross-task continual learning framework for pretrained EEG Foundation Models, which enables a single unified model to dynamically adapt across  heterogeneous EEG tasks and advances toward the **one-for-all objective for universal brain decoding.**
 - EvoBrain introduces **Neuro-Spectral Task Normalization (NSN)** and **Response-Affinity Distillation (RAD)** to balance adaptation plasticity and memory stability, achieving consistent improvements across six EEG tasks and four mainstream foundation-model architectures, demonstrating strong architecture-agnostic generalization.
