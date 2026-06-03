@@ -33,6 +33,10 @@ My research interests include EEG decoding, Brain-Computer Interfaces, Deep Lear
 我的研究兴趣包括脑电信号解码、脑机接口、深度学习和人工智能。目前我正专注于研究基于脑启发的持续学习以及在现实场景的持续脑信号解码算法。
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 Our paper "_Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable
+  Multimodal Neurofeedback_" is accepted by **IEEE Transactions on Affective Computing**!
+- *2026.01*: &nbsp;🎉 Our paper "_EEGDiffuser: Label-Guided EEG Signals Synthesis via Diffusion Model for BCI
+  Applications_" is accepted by **Neurocomputing**!
 - *2025.09*: &nbsp;🎉🎉 Our paper "_SPICED: A Synaptic Homeostasis-Inspired Framework for Unsupervised Continual EEG Decoding_" is accepted by **NeurIPS 2025**!
 - *2025.07*: &nbsp;🎉 Our paper "_EEGMamba: An EEG Foundation Model with Mamba_" (**EEG Foundation
   Model 🤖**) is accepted by **Neural Networks**!
@@ -122,7 +126,7 @@ Jiquan Wang, Sha Zhao, Zhiling Luo, **Yangxuan Zhou**, Haiteng Jiang, Shijian Li
 </div>
 
 ---
-
+- `TAFFC 2026` [Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback](https://ieeexplore.ieee.org/document/11477097), Sha Zhao, Song Yi, **Yangxuan Zhou**, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
 - `NN 2025`[EEGMamba: An EEG Foundation Model with Mamba](https://www.sciencedirect.com/science/article/pii/S0893608025006963), Jiquan Wang, Sha Zhao, Zhiling Luo, **Yangxuan Zhou**, Shijian Li, Gang Pan
 - `ACMMM 2025`[Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
   Portable EEG-fNIRS Fusion](https://arxiv.org/abs/2508.04723), Sha Zhao, Song Yi, **Yangxuan Zhou**, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan
